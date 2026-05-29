@@ -1,0 +1,10 @@
+firstname;lastName;login;departement;jobTitle
+Alice;Martin;amartin;RH;Responsable RH
+Bob;Durand;bdurand;RH;Assistant RH
+Charlie;Dupont;cdupont;RH;Recruteur
+David;Petit;dpetit;Comptabilite;Comptable
+Eva;Lemoine;elemoine;Comptabilite;Gestionnaire de paie
+Frank;Moreau;fmoreau;Comptabilite;Controleur de gestion
+Grace;Boucher;gboucher;Direction;Directrice
+Hugo;Girard;hgirard;Direction;Directeur adjoint
+Iris;Roux;iroux;Direction;Secretaire de direction
